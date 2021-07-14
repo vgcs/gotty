@@ -39,15 +39,15 @@
 			"Rev": "248dadf4e9068a0b3e79f02ed0a610d935de5302"
 		},
 		{
-			"ImportPath": "github.com/vgcs/hcl",
+			"ImportPath": "github.com/yudai/hcl",
 			"Rev": "5fa2393b3552119bf33a69adb1402a1160cba23d"
 		},
 		{
-			"ImportPath": "github.com/vgcs/hcl/hcl",
+			"ImportPath": "github.com/yudai/hcl/hcl",
 			"Rev": "5fa2393b3552119bf33a69adb1402a1160cba23d"
 		},
 		{
-			"ImportPath": "github.com/vgcs/hcl/json",
+			"ImportPath": "github.com/yudai/hcl/json",
 			"Rev": "5fa2393b3552119bf33a69adb1402a1160cba23d"
 		}
 	]
