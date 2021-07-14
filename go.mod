@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/NYTimes/gziphandler v0.0.0-20170804200234-967539e5e271
-	github.com/codegangsta/cli v1.19.1
+	github.com/urfave/cli v1.19.1
 	github.com/elazarl/go-bindata-assetfs v0.0.0-20150813044622-d5cac425555c
 	github.com/fatih/structs v0.0.0-20150526064352-a9f7daa9c272
 	github.com/go-bindata/go-bindata v3.1.2+incompatible // indirect

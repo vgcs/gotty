@@ -1,7 +1,7 @@
 github.com/NYTimes/gziphandler v0.0.0-20170804200234-967539e5e271 h1:rEXtCtsQnEC8QeWYL2BpqmOuondcABYaKHux21ddDns=
 github.com/NYTimes/gziphandler v0.0.0-20170804200234-967539e5e271/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
-github.com/codegangsta/cli v1.19.1 h1:+wkU9+nidApJ051CVhVGnj5li64qOfLPz7eZMn2DPXw=
-github.com/codegangsta/cli v1.19.1/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
+github.com/urfave/cli v1.19.1 h1:+wkU9+nidApJ051CVhVGnj5li64qOfLPz7eZMn2DPXw=
+github.com/urfave/cli v1.19.1/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/elazarl/go-bindata-assetfs v0.0.0-20150813044622-d5cac425555c h1:Knqh8y6EeTJQ3FZsqdRq7XfB7/RimWQjBtO4YRzUgcE=
