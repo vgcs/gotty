@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/yudai/gotty",
+	"ImportPath": "github.com/vgcs/gotty",
 	"GoVersion": "go1.9",
 	"GodepVersion": "v79",
 	"Deps": [
@@ -39,15 +39,15 @@
 			"Rev": "248dadf4e9068a0b3e79f02ed0a610d935de5302"
 		},
 		{
-			"ImportPath": "github.com/yudai/hcl",
+			"ImportPath": "github.com/vgcs/hcl",
 			"Rev": "5fa2393b3552119bf33a69adb1402a1160cba23d"
 		},
 		{
-			"ImportPath": "github.com/yudai/hcl/hcl",
+			"ImportPath": "github.com/vgcs/hcl/hcl",
 			"Rev": "5fa2393b3552119bf33a69adb1402a1160cba23d"
 		},
 		{
-			"ImportPath": "github.com/yudai/hcl/json",
+			"ImportPath": "github.com/vgcs/hcl/json",
 			"Rev": "5fa2393b3552119bf33a69adb1402a1160cba23d"
 		}
 	]
