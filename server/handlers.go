@@ -200,6 +200,15 @@ func (server *Server) handleIndex(w http.ResponseWriter, r *http.Request) {
 	w.Write(indexBuf.Bytes())
 }
 
+func (server *Server) handleDownload(w http.ResponseWriter, r *http.Request) {
+	r.ParseForm()
+	path, ok := r.Form["path"]
+	if !ok {
+		return
+	}
+	http.ServeFile(w, r, path[0])
+}
+
 func (server *Server) handleAuthToken(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/javascript")
 	// @TODO hashing?

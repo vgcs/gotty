@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="./css/xterm_customize.css" />
   </head>
   <body>
+    <form action="/download" method="POST">
+      <label style="color:white" for="path">Download file:</label>
+      <input type="text" name="path" placeholder="file path"></input>
+    </form>
     <div id="terminal"></div>
     <script src="./auth_token.js"></script>
     <script src="./config.js"></script>
